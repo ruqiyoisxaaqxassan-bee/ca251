@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(30, 128, 48);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+
+nav{
+    background-color: whitesmoke;
+}
+
+    padding: 20px;
+}
+
+nav a{
+margin: 25px;
+color: white;
+text-decoration: none;
+
+}
+
+nav {
+background-color: orchid;
+}
+
+
+main{
+    background-color: bisque;
+    color: blueviolet;
+}
+
+footer{
+    background: blue;
+    color: aqua;
+}
+table{
+    color: black;
+}
